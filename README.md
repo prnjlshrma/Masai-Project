@@ -1,6 +1,6 @@
 # Masai-Project
-Tic Tac Toe Game
-Project Description
+Tic Tac Toe
+Project Description:
 This is a simple Tic Tac Toe game built using Python. The game can be played between two players on the same device. The goal of the game is to place three marks in a row—horizontally, vertically, or diagonally—while preventing the opponent from doing so. The game provides an interactive interface for users to enjoy and test their skills.
 Instructions of Game:
 1. The board consists of 9 cells, numbered from 1 to 9.
